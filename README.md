@@ -10,10 +10,6 @@
 </p>
 </br>
 
-<p align="center">
-<img src="/previews/screenshot.png"/>
-</p>
-
 
 ## Tech stack & Open-source libraries
 - Minimum SDK level 21
